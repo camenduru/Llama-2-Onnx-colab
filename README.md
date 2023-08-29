@@ -8,6 +8,7 @@
 | colab | Info - Model Page
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Llama-2-Onnx-colab/blob/main/Llama_2_Onnx_7b_FT_16bit_colab.ipynb) | Llama_2_Onnx_7b_FT_16bit_colab <br /> https://ai.meta.com/llama/ <br /> https://github.com/microsoft/Llama-2-Onnx
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Llama-2-Onnx-colab/blob/main/Llama_2_Onnx_7b_FT_16bit_ChatApp_colab.ipynb) | 🚦WIP🚦 Llama_2_Onnx_7b_FT_16bit_ChatApp_colab <br /> https://ai.meta.com/llama/ <br /> https://github.com/microsoft/Llama-2-Onnx
 
 ## Models License
 | Model | License
